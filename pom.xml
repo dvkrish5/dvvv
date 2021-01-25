@@ -5,7 +5,7 @@
 
   <groupId>jk.com</groupId>
   <artifactId>hello.com</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
 
   <name>hello.com</name>
   <!-- FIXME change it to the project's website -->
@@ -47,7 +47,7 @@
    <connection>scm:git:https://github.com/dvkrish5/dvvv.git</connection>
        <url>http://github.com/user/project</url>
     <developerConnection>scm:git:https://github.com/dvkrish5/dvvv.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>hello.com-1.1</tag>
   </scm>
   
 
